@@ -8,4 +8,5 @@ A sample project to demonstrate java unit tests and the usage of Jenkinsfile.
 4. Select "***Pipeline***"
 5. Click on "***Ok***" button
 6. Go to "***Pipeline***" section and configure as follows
-![image](https://user-images.githubusercontent.com/9147189/104811667-2868f980-5823-11eb-9899-17bf5b939381.png)
+
+![image](https://user-images.githubusercontent.com/9147189/104811751-be048900-5823-11eb-91f3-86452833306d.png)
